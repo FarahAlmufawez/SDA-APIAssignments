@@ -1,4 +1,4 @@
-package request;
+package Week8HW;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
